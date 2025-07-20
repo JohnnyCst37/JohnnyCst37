@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=df5f2e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+JOHNNY+FERNANDES;ANALISTA+DE+DADOS;CIENTISTA+DE+DADOS+EM+FORMAÇÃO;CONSULTOR+DE+NEGÓCIOS;SEJA+BEM-VINDO!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df5f2e&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+JOHNNY+FERNANDES;ANALISTA+DE+DADOS;CIENTISTA+DE+DADOS+EM+FORMAÇÃO;CONSULTOR+DE+NEGÓCIOS;SEJA+BEM-VINDO!+%3A%29)](https://git.io/typing-svg)
 
 ---
 
@@ -21,14 +21,14 @@ Sou um profissional apaixonado por **transformar dados em insights acionáveis**
 **Badges de Habilidades:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-FFA500?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-FFA500?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
-![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-000000?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Consultoria](https://img.shields.io/badge/Consultoria-FFA500?style=for-the-badge&logo=strategy&logoColor=black)&nbsp;
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-555555?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
+![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-555555?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Consultoria](https://img.shields.io/badge/Consultoria-007396?style=for-the-badge&logo=strategy&logoColor=black)&nbsp;
 
 ---
 
