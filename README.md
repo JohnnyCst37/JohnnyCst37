@@ -6,7 +6,7 @@
 
 ### 🚀 **Sobre Mim:**
 
-Sou um profissional apaixonado por **transformar dados em insights acionáveis** e **soluções estratégicas**. [cite_start]Atualmente, atuo como **Analista de Dados** com expertise em **Power BI** e estou em **transição para a Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Machine Learning**. [cite: 24, 30]
+Sou um profissional apaixonado por **transformar dados em insights acionáveis** e **soluções estratégicas**. Atualmente, atuo como **Analista de Dados** com expertise em **Power BI** e estou em **transição para a Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Machine Learning**. 
 
 [cite_start]Minha experiência como **Diretor Executivo na Tutoreanos Consultores de Negócios** me proporciona uma **visão de negócios estratégica** e habilidades de **otimização de processos**, aplicando lógica e pensamento estratégico para resolver desafios complexos. [cite: 28, 31] Sou um entusiasta de xadrez, o que reflete meu foco em estratégia e análise de cenários.
 
@@ -14,9 +14,9 @@ Sou um profissional apaixonado por **transformar dados em insights acionáveis**
 
 ### 🛠️ **Minhas Principais Habilidades & Ferramentas:**
 
-* [cite_start]**Análise de Dados:** Power BI (Certificado EBAC), SQL, Excel. [cite: 7, 20, 21, 30]
-* [cite_start]**Programação:** Python (Pandas, NumPy, Matplotlib, Seaborn), React, Java. [cite: 22]
-* [cite_start]**Conceitos:** ETL, Modelagem de Dados, DAX, Machine Learning (básico), Otimização de Processos, Gestão da Qualidade (Especialização QSMS). [cite: 28, 75, 79]
+* **Análise de Dados:** Power BI (Certificado EBAC), SQL, Excel.
+* **Programação:** Python (Pandas, NumPy, Matplotlib, Seaborn), React, Java.
+* **Conceitos:** ETL, Modelagem de Dados, DAX, Machine Learning (básico), Otimização de Processos, Gestão da Qualidade (Especialização QSMS).
 
 **Badges de Habilidades:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -44,7 +44,7 @@ Sou um profissional apaixonado por **transformar dados em insights acionáveis**
 ### 🌱 **O que estou aprendendo:**
 
 * **Ciência de Dados:** Aprofundando em Python (Pandas, NumPy, Matplotlib, Seaborn), Machine Learning (algoritmos de classificação e regressão).
-* [cite_start]**SQL Avançado:** Otimização de consultas e modelagem de dados complexos. [cite: 20]
+* **SQL Avançado:** Otimização de consultas e modelagem de dados complexos.
 
 ### 👯 **Estou buscando colaborar em:**
 
@@ -54,8 +54,8 @@ Sou um profissional apaixonado por **transformar dados em insights acionáveis**
 
 ### 💬 **Pergunte-me sobre:**
 
-* [cite_start]Análise de dados com Power BI. [cite: 7]
-* [cite_start]Otimização de processos e Business Intelligence. [cite: 28]
+* Análise de dados com Power BI.
+* Otimização de processos e Business Intelligence.
 * Empreendedorismo e desenvolvimento de projetos.
 * Xadrez e pensamento estratégico!
 
@@ -63,7 +63,7 @@ Sou um profissional apaixonado por **transformar dados em insights acionáveis**
 
 ### ✉️ **Conecte-se Comigo:**
 
-* [cite_start][LinkedIn](https://www.linkedin.com/in/johnnyfernandes37/) [cite: 18]
-* [cite_start][Email](mailto:fernandesjohnnys@gmail.com) [cite: 16]
+* [LinkedIn](https://www.linkedin.com/in/johnnyfernandes37/)
+* [Email](mailto:fernandesjohnnys@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
