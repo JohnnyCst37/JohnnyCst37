@@ -8,7 +8,7 @@
 
 Sou um profissional apaixonado por **transformar dados em insights acionáveis** e **soluções estratégicas**. Atualmente, atuo como **Analista de Dados** com expertise em **Power BI** e estou em **transição para a Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Machine Learning**. 
 
-[cite_start]Minha experiência como **Diretor Executivo na Tutoreanos Consultores de Negócios** me proporciona uma **visão de negócios estratégica** e habilidades de **otimização de processos**, aplicando lógica e pensamento estratégico para resolver desafios complexos. Sou um entusiasta de xadrez, o que reflete meu foco em estratégia e análise de cenários.
+Minha experiência como **Diretor Executivo na Tutoreanos Consultores de Negócios** me proporciona uma **visão de negócios estratégica** e habilidades de **otimização de processos**, aplicando lógica e pensamento estratégico para resolver desafios complexos. Sou um entusiasta de xadrez, o que reflete meu foco em estratégia e análise de cenários.
 
 ---
 
