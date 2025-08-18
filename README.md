@@ -1,24 +1,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=df5f2e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df5f2e&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+O+JOHNNY+FERNANDES;ANALISTA+DE+DADOS;CIENTISTA+DE+DADOS+EM+FORMAÇÃO;CONSULTOR+DE+NEGÓCIOS;SEJA+BEM-VINDO!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=df5f2e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+JOHNNY+FERNANDES;DATA+ANALYST;DATA+SCIENTIST+IN+TRAINING;BUSINESS+CONSULTANT;WELCOME!+%3A%29)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 **Sobre Mim:**
+### About Me:
+As a strategic partner, I help businesses identify and and solve process bottlenecks using data. My work involves translating my passion for logic into tangible solutions that enhance a company's data culture and overall business efficiency. I currently work as a Data Analyst with expertise in Power BI and am transitioning into Data Science, deepening my knowledge of Python and Machine Learning.
 
-Como um parceiro estratégico, ajudo empresas a identificar e resolver gargalos em seus processos usando dados. Meu trabalho é traduzir a paixão pela lógica em soluções reais que melhoram a cultura de dados e a eficiência geral do negócio. Atualmente, atuo como **Analista de Dados** com expertise em **Power BI** e estou em **transição para a Ciência de Dados**, aprofundando meus conhecimentos em **Python** e **Machine Learning**. 
-
-Minha experiência como **Diretor Executivo na Tutoreanos Consultores de Negócios** me proporciona uma **visão de negócios estratégica** e habilidades de **otimização de processos**, aplicando lógica e pensamento estratégico para resolver desafios complexos. Sou um entusiasta de xadrez, o que reflete meu foco em estratégia e análise de cenários.
+My experience as an Executive Director at Tutoreanos Business Consultants has provided me with a strategic business mindset and process optimization skills, applying logic and strategic thinking to solve complex challenges. I am a chess enthusiast, which reflects my focus on strategy and scenario analysis.
 
 ---
+### **My Key Skills & Tools:**
 
-### 🛠️ **Minhas Principais Habilidades & Ferramentas:**
+* **Data Analysis:** Power BI (EBAC Certified), SQL, Excel.
+* **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), React, Java.
+* **Concepts:** ETL, Data Modeling, DAX, Machine Learning (foundational), Process Optimization, Quality Management (QSMS Specialization).
 
-* **Análise de Dados:** Power BI (Certificado EBAC), SQL, Excel.
-* **Programação:** Python (Pandas, NumPy, Matplotlib, Seaborn), React, Java.
-* **Conceitos:** ETL, Modelagem de Dados, DAX, Machine Learning (básico), Otimização de Processos, Gestão da Qualidade (Especialização QSMS).
+**Skill Badges:**
 
-**Badges de Habilidades:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
@@ -27,43 +26,45 @@ Minha experiência como **Diretor Executivo na Tutoreanos Consultores de Negóci
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-555555?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
-![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-555555?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Consultoria](https://img.shields.io/badge/Consultoria-007396?style=for-the-badge&logo=strategy&logoColor=black)&nbsp;
+![Project Management](https://img.shields.io/badge/Project%20Management-555555?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Consulting](https://img.shields.io/badge/Consulting-007396?style=for-the-badge&logo=strategy&logoColor=black)&nbsp;
+
 
 ---
 
-### 🔭 **Projetos em Destaque & O que estou trabalhando:**
+###  **Featured Projects & What I'm Working On:**
 
-* **App Git_Financeiro (Em Desenvolvimento):** Aplicativo SPA (Single Page Application) focado em finanças pessoais/empresariais, construído com **React, Tailwind CSS e Java**. Um projeto que une minha paixão por tecnologia, lógica e finanças para criar uma solução prática.
-* **Soluções de Dados para Distribuidores de Cosméticos:** Desenvolvimento de dashboards e análises para otimização de vendas, estoque e logística.
-* **Medidor de Sustentabilidade para Escolas:** Ferramenta para monitorar e analisar indicadores de sustentabilidade em ambientes educacionais, promovendo a consciência e ações ambientais.
-* **Análises com Power BI:** Explore meus dashboards e relatórios para ver como transformo dados em visualizações claras e insights acionáveis (link para repositório específico em breve).
+* **Git_Financeiro App (In Development):** A Single Page Application (SPA) focused on personal and business finance, built with **React, Tailwind CSS, and Java**. This project combines my passion for technology, logic, and finance to create a practical solution.
+* **Data Solutions for Cosmetics Distributors:** Development of dashboards and analyses to optimize sales, inventory, and logistics.
+* **Sustainability Meter for Schools:** A tool to monitor and analyze sustainability indicators in educational environments, promoting environmental awareness and action.
+* **Power BI Analyses:** Explore my dashboards and reports to see how I transform data into clear visualizations and actionable insights (link to specific repository coming soon).
+
+---
+###  **What I'm Learning:**
+
+* **Data Science:** Deepening my knowledge of Python (Pandas, NumPy, Matplotlib, Seaborn) and Machine Learning (classification and regression algorithms).
+* **Advanced SQL:** Query optimization and complex data modeling.
+
+###  **I'm Looking to Collaborate On:**
+
+* Data Analysis and Data Science projects that aim to solve real-world business problems.
+* Open-source initiatives related to Business Intelligence and data visualization.
+* Development of data-focused applications (Web or Mobile).
+
+###  **Ask Me About:**
+
+* Data analysis with Power BI.
+* Process optimization and Business Intelligence.
+* Entrepreneurship and project development.
+* Chess and strategic thinking!
 
 ---
 
-### 🌱 **O que estou aprendendo:**
-
-* **Ciência de Dados:** Aprofundando em Python (Pandas, NumPy, Matplotlib, Seaborn), Machine Learning (algoritmos de classificação e regressão).
-* **SQL Avançado:** Otimização de consultas e modelagem de dados complexos.
-
-### 👯 **Estou buscando colaborar em:**
-
-* Projetos de Análise e Ciência de Dados que buscam resolver problemas de negócio reais.
-* Iniciativas open-source relacionadas a Business Intelligence e visualização de dados.
-* Desenvolvimento de aplicações com foco em dados (Web ou Mobile).
-
-### 💬 **Pergunte-me sobre:**
-
-* Análise de dados com Power BI.
-* Otimização de processos e Business Intelligence.
-* Empreendedorismo e desenvolvimento de projetos.
-* Xadrez e pensamento estratégico!
-
----
-
-### ✉️ **Conecte-se Comigo:**
+###  **Connect With Me:**
 
 * [LinkedIn](https://www.linkedin.com/in/johnnyfernandes37/)
 * [Email](mailto:fernandesjohnnys@gmail.com)
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
