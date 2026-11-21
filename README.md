@@ -1,13 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=110&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=D97706&size=28&center=true&vCenter=true&width=900&lines=OL%C3%81%2C+SOU+JOHNNY+FERNANDES;ANALISTA+DE+DADOS+%26+POWER+BI;CONSULTOR+DE+NEG%C3%93CIOS;CRIADOR+DO+CONSULTANTFLOW+E+SAD+SCHOOL" alt="Johnny Fernandes" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0F172A&size=28&center=true&vCenter=true&width=900&lines=OL%C3%81%2C+SOU+JOHNNY+FERNANDES;ANALISTA+DE+DADOS+%26+POWER+BI;CONSULTOR+DE+NEG%C3%93CIOS;CRIADOR+DO+CONSULTANTFLOW+E+SAD+SCHOOL" alt="Johnny Fernandes" />
 </p>
 
 ---
-
-# Olá, eu sou o Johnny Fernandes
-
 **Consultor de Negócios & Analista de Dados** em Primavera do Leste (MT). Ajudo pequenas e médias empresas (PMEs) e instituições de ensino a transformar dados espalhados em fluxo de caixa previsível, controle de estoque e processos eficientes.
 
 ## O que eu construo e entrego
@@ -30,8 +27,5 @@
 - **LinkedIn:** [linkedin.com/in/johnnyfernandes37](https://www.linkedin.com/in/johnnyfernandes37)
 - **E-mail:** fernandesjohnnnys@gmail.com
 
-<p align="center">
-  <img src="./logo-js-fernandes.png" width="120" alt="JS Fernandes Consultoria" />
-</p>
 ---
 
