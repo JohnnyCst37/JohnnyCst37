@@ -4,32 +4,29 @@
 
 ---
 
-### About Me:
-As a strategic partner, I help businesses identify and and solve process bottlenecks using data. My work involves translating my passion for logic into tangible solutions that enhance a company's data culture and overall business efficiency. I currently work as a Data Analyst with expertise in Power BI and am transitioning into Data Science, deepening my knowledge of Python and Machine Learning.
+# Olá, eu sou o Johnny Fernandes
 
-My experience as an Executive Director at Tutoreanos Business Consultants has provided me with a strategic business mindset and process optimization skills, applying logic and strategic thinking to solve complex challenges. I am a chess enthusiast, which reflects my focus on strategy and scenario analysis.
+**Consultor de Negócios & Analista de Dados** em Primavera do Leste (MT). Ajudo pequenas e médias empresas (PMEs) e instituições de ensino a transformar dados espalhados em fluxo de caixa previsível, controle de estoque e processos eficientes.
 
----
-### **My Key Skills & Tools:**
+## O que eu construo e entrego
+- **Business Intelligence & Análise de Dados:** ETL, Power Query, DAX e dashboards gerenciais no **Microsoft Power BI**, além de análise exploratória e limpeza de dados com **Python (`pandas`, `numpy`, `matplotlib`, `seaborn`)** e **SQL**.
+- **Sistemas, Automação e IA Aplicada:** Prototipação e entrega de soluções usando o ecossistema **Google Developer Program**, **Firebase**, **Google AI Studio (Gemini)**, **n8n** e desenvolvimento web (HTML, CSS, JavaScript, TypeScript/Next.js).
+- **Consultoria de Negócios (JS Fernandes LTDA):** Diagnósticos operacionais em 4 pilares — financeiro, almoxarifado/estoque, gestão de clientes e processos internos.
 
-* **Data Analysis:** Power BI (EBAC Certified), SQL, Excel.
-* **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), React, Java.
-* **Concepts:** ETL, Data Modeling, DAX, Machine Learning (foundational), Process Optimization, Quality Management (QSMS Specialization).
+## Produtos Proprietários (Repositórios Privados)
+- **ConsultantFlow:** Plataforma de diagnóstico empresarial, geração de propostas comerciais e indicadores para PMEs.
+- **SAD School:** Sistema de governança pedagógica, calendário inteligente e automação de rotinas escolares.
 
-**Skill Badges:**
+## Projetos Públicos em Destaque
+- **[Data_Analyst](https://github.com/JohnnyCst37/Data_Analyst):** Projetos de ETL, DAX e dashboards em Power BI (Especialista em Power BI — EBAC).
+- **[credit-score-processamento-data-science](https://github.com/JohnnyCst37/credit-score-processamento-data-science):** Análise Exploratória de Dados (EDA), tratamento de dados e correlação de Pearson.
+- **[Telecom-Data-Preprocessing_2](https://github.com/JohnnyCst37/Telecom-Data-Preprocessing_2):** Pré-processamento, investigação univariada e preparação para modelagem.
+- **[price-stats-data-science](https://github.com/JohnnyCst37/price-stats-data-science):** Análise estatística de preços por categoria com média, mediana, desvio padrão e boxplots.
+- **[ecommerce_graficos](https://github.com/JohnnyCst37/ecommerce_graficos):** Visualizações exploratórias em Python com Seaborn e Matplotlib.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-555555?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
-![Project Management](https://img.shields.io/badge/Project%20Management-555555?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Consulting](https://img.shields.io/badge/Consulting-007396?style=for-the-badge&logo=strategy&logoColor=black)&nbsp;
-
-
+## Contato
+- **LinkedIn:** [linkedin.com/in/johnnyfernandes37](https://www.linkedin.com/in/johnnyfernandes37)
+- **E-mail:** fernandesjohnnnys@gmail.com
 ---
 
 ###  **Featured Projects & What I'm Working On:**
