@@ -27,5 +27,9 @@
 ## Contato
 - **LinkedIn:** [linkedin.com/in/johnnyfernandes37](https://www.linkedin.com/in/johnnyfernandes37)
 - **E-mail:** fernandesjohnnnys@gmail.com
+
+<p align="center">
+  <img src="./logo-js-fernandes.png" width="120" alt="JS Fernandes Consultoria" />
+</p>
 ---
 
