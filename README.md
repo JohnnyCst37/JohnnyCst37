@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=110&section=header"/>
 
-[[https://readme-typing-svg.herokuapp.com/?color=D97706&size=30&center=true&vCenter=true&width=900&lines=OL%C3%81%2C+SOU+JOHNNY+FERNANDES;ANALISTA+DE+DADOS+%26+POWER+BI;CONSULTOR+DE+NEG%C3%93CIOS;CRIADOR+DO+CONSULTANTFLOW+E+SAD+SCHOOL]](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=D97706&size=28&center=true&vCenter=true&width=900&lines=OL%C3%81%2C+SOU+JOHNNY+FERNANDES;ANALISTA+DE+DADOS+%26+POWER+BI;CONSULTOR+DE+NEG%C3%93CIOS;CRIADOR+DO+CONSULTANTFLOW+E+SAD+SCHOOL" alt="Johnny Fernandes" />
+</p>
 
 ---
 
